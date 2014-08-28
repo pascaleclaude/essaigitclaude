@@ -1,0 +1,178 @@
+/* CSS Document */
+
+body{
+background-color: rgb(254, 254, 226);
+//overflow:hidden;
+}
+.col1{
+width:50;
+height:27;
+font-size:50;
+font-weight:bold;
+}
+.col22{
+width:60;
+color: black;
+border-width: 2px;
+}
+.col50{
+width:50px;
+font-weight:bold;
+border-width: 2px;
+}
+.col80{
+width:80px;
+color: black;
+border-width: 2px;
+}
+.col120 {
+width:120px;
+color: black;
+border-width: 2px;
+}
+.col200{
+width:200px;
+color: black;
+border-width: 2px;
+}
+
+#conteneur{
+width:100%;
+top:0;
+left:0;
+margin: auto;
+}
+.corps{
+margin-left:10px;
+width:100%;
+}
+#entete{
+top:0;
+left:0;
+}
+#listepartic{
+float:left;
+width:640px;
+height:600px;
+}
+#menu{
+left:0;
+width:75%;
+}
+#menu ul {
+ margin:0;
+ padding:0;
+ list-style-type:none;
+ text-align:center;
+ }
+ #menu ul li:hover ul {
+ display:block;
+ }
+#menu li:hover ul li {
+ float:none;
+ }
+#menu li {
+ float:left;
+ margin:auto;
+ padding:0;
+ background-color:#C0C0C0;
+ }
+#menu li a {
+ display:block;
+ width:170px;
+ color:black;
+ text-decoration:none;
+ padding:5px;
+ }
+#menu li a:hover {
+ color:	#FF4500;
+ }
+ #menu li ul {
+ position:absolute;
+ }
+ #menu ul li ul {
+ display:none;
+ }
+ #migr_texte{
+left:100;
+width:800px;
+height:60px;
+}
+#migr_listact{
+float:left;
+margin-top:1Opx;
+margin-left:200px;
+width:350px;
+}
+#migr_listact_text{
+float:left;
+margin-top:10px;
+margin-left:200px;
+width:350px;
+}
+#migr_listcible_text{
+float:left;
+margin-top:10px;
+width:700px;
+}
+#migr_listcible_act{
+float:left;
+//margin-top:10px;
+width:700px;
+}
+#migr_listcible_part{
+float:left;
+//margin-top:10px;
+width:700px;
+}
+#migr_listpart{
+float:left;
+margin-top:1Opx;
+margin-left:200px;
+width:350px;
+}
+#migr_bouton{
+float:left;
+margin-top:1Opx;
+margin-left:200px;
+width:350px;
+}
+#migr_bouton_cible{
+float:left;
+//margin-top:10px;
+width:700px;
+}
+ #modifactiv{
+ float:left;
+ margin-top:30px;
+ }
+ #persactiv{
+float:left;
+margin-top:40px;
+width:20%;
+}
+#persactiv1{
+float:left;
+margin-top:100px;
+width:25%;
+}
+.pied{
+margin-left:10px;
+width:60%;
+}
+#rolactiv {
+float:left;
+margin-top:120px;
+width:20%;
+}
+.supp{
+float:right;
+margin-right:40px;
+margin-top:100px;
+}
+.supp2{
+float:right;
+margin-right:100px;
+}
+
+
