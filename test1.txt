@@ -3,4 +3,5 @@ signé Claude
 à 11:40
 je refais une modif provisoire à 15:58
 
-je modifie la brachnew ce 29/09/14 à 11:26
+je modifie la brachnew ce 29/09/14 à 11:26.
+Je remodifie pour tester le ssh.
